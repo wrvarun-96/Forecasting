@@ -25,7 +25,7 @@ This project builds a **predictive model** to forecast demand for various produc
 
 ---
 
-**Results**  
+## **Results**  
 - Improved demand forecasting accuracy, optimizing inventory levels.  
 - Reduced overstock and understock costs.  
 - Enhanced planning through seasonal trend insights.  
